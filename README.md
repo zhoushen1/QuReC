@@ -5,7 +5,7 @@
 ![framework](/asset/QuReC.png)
 
 ## Results
-You can download visual results from (Link：https://drive.google.com/drive/folders/1FCCdSaucNUuod1n4dWO_TMM17eov93JT?usp=drive_link)
+You can download visual results from (https://drive.google.com/drive/folders/1FCCdSaucNUuod1n4dWO_TMM17eov93JT?usp=drive_link)
 
 # Contact:
     Zhou Shen
