@@ -3,4 +3,4 @@
 
 ## Pipeline
 
-![framework](/figs/1.jpg)
+![framework](/asset/QuReC.png)
