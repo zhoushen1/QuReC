@@ -1,0 +1,12 @@
+av_bw_kernel.cu
+av_fw_kernel.cu
+qk_bw_kernel.cu
+qk_fw_kernel.cu
+qk_rpb_bw_kernel.cu
+qk_rpb_fw_kernel.cu
+setup.py
+swattention.cpp
+swattention.egg-info/PKG-INFO
+swattention.egg-info/SOURCES.txt
+swattention.egg-info/dependency_links.txt
+swattention.egg-info/top_level.txt
